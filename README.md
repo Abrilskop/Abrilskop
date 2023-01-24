@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
-🏫 I'm currently the last year student at SENATI.
-🏫 I'm currently the second year student at UAC - Universidad Andina del Cusco.
+🏫 I'm currently the last year student at SENATI. I'm currently the second year student at UAC - Universidad Andina del Cusco.
 📚 My major is Software Engineering and System Engineering
 🌏 I'm living now in Cusco, Perú.
 😅 I'm a newbie in coding 🐧
