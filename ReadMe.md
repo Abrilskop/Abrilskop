@@ -40,7 +40,4 @@ I'm currently the last year student at SENATI. I'm currently the second year stu
 ### 😂 Random Dev Meme
 <img src="assets/img/AI.jpeg" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=abrilskop&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <!-- Thanks for watching -->
