@@ -31,7 +31,7 @@ I'm currently the last year student at SENATI. I'm currently the second year stu
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abrilskop&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=abrilskop&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrilskop&theme=chartreuse dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrilskop&theme=chartreuse dark&hide_border=false&include_all_commits=false&count_private=false&layout=compac)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
