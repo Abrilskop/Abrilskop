@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently the last year student at SENATI. I'm currently the second year student at UAC - Universidad Andina del Cusco.
+I'm currently the last year student at SENATI and second year student at UAC - Universidad Andina del Cusco.
 <br>My major is Software Engineering and System Engineering.<br>I'm living now in Cusco, Perú.
 <br>I'm interested in coding, researching, drawing and new technologies.
 <br>My quote is "If you can't explain it simply, you don't understand it well enough." 
