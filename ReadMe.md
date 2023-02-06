@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/116703319/216876379-01dec0f4-a678-486e-8711-e2ec3bb59c07.gif">
+<img src="https://user-images.githubusercontent.com/116703319/216876379-01dec0f4-a678-486e-8711-e2ec3bb59c07.gif" display="flex" justify-content="center">
 # 💫 About Me:
 I'm currently the last year student at SENATI and second year student at UAC - Universidad Andina del Cusco.
 <br>My major is Software Engineering and System Engineering.<br>I'm living now in Cusco, Perú.
