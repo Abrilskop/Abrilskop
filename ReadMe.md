@@ -12,6 +12,8 @@
 
 <p align="center">
 <a href= "https://dev.to/abrilskop" target="_blank"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "#"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "#"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack:
