@@ -6,7 +6,11 @@
 <h4 align="center"><samp> I'm currently the last year student at SENATI and second year student at UAC - Universidad Andina del Cusco.
 <br>My major is Software Engineering and System Engineering.<br>I'm living now in Cusco, Perú.
 <br>I'm interested in coding, researching, drawing and new technologies.
-<br>My quote is "If you can't explain it simply, you don't understand it well enough." </samp></h4>
+<br>My quote is "If you can't explain it simply, you don't understand it well enough."
+<br> Check out my Blogs ⬇️  </samp></h4>
+<p align="center">
+<a href= "https://dev.to/abrilskop"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+</p>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/116703319/216876328-d8a2481f-362b-4b56-a942-3c83d1b4d6e1.gif" width="300px" height="250px">
