@@ -46,6 +46,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### <p align="center"> 😂 Random Dev Meme </p>
-<img src="assets/img/AI.jpeg" width="512px"/>
+<p align="center">
+    <img src="assets/img/AI.jpeg" width="512px"/>
+</p>
 
 <!-- Thanks for watching -->
