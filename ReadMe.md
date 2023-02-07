@@ -4,7 +4,8 @@
 </p>
 
 <h4 align="center"><samp> I'm currently the last year student at SENATI and second year student at UAC - Universidad Andina del Cusco.
-<br>My major is Software Engineering and System Engineering.<br>I'm living now in Cusco, Perú.
+<br>My major is Software Engineering and System Engineering.
+<br>I'm living now in Cusco, Perú.
 <br>I'm interested in coding, researching, drawing and new technologies.
 <br>My quote is "If you can't explain it simply, you don't understand it well enough."
 <br> Check out my Blogs ⬇️  </samp></h4>
