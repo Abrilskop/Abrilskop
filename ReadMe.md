@@ -7,7 +7,7 @@
 <br> Check out my Blogs ⬇️  </samp></h4>
 
 <p align="center">
-<a href= "https://dev.to/abrilskop"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://dev.to/abrilskop" target="_blank"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 </p>
 
 <p align="center">
