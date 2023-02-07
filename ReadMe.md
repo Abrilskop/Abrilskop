@@ -5,6 +5,7 @@
 <br>I'm interested in coding, researching, drawing and new technologies.
 <br>My quote is "If you can't explain it simply, you don't understand it well enough."
 <br> Check out my Blogs ⬇️  </samp></h4>
+
 <p align="center">
 <a href= "https://dev.to/abrilskop"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 </p>
@@ -38,13 +39,13 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abrilskop&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=abrilskop&theme=chartreuse-dark&hide_border=false)<br/>
+# <p align="center"> 📊 GitHub Stats: </p>
+![](https://github-readme-stats.vercel.app/api?username=abrilskop&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=abrilskop&theme=chartreuse-dark&hide_border=false)<br/> 
 
-### ✍️ Random Dev Quote
+### <p align="center"> ✍️ Random Dev Quote </p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
+### <p align="center"> 😂 Random Dev Meme </p>
 <img src="assets/img/AI.jpeg" width="512px"/>
 
 <!-- Thanks for watching -->
