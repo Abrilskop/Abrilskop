@@ -1,8 +1,5 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/116703319/216876379-01dec0f4-a678-486e-8711-e2ec3bb59c07.gif" width="200px" height="200px">
-</p>
+# <p align="center"> ☁️ Hi There, I'm Abrilskop: ☁️ </p>
 
-# 💫 About Me:
 <h4 align="center"><samp> I'm currently the last year student at SENATI and second year student at UAC - Universidad Andina del Cusco.
 <br>My major is Software Engineering and System Engineering.<br>I'm living now in Cusco, Perú.
 <br>I'm interested in coding, researching, drawing and new technologies.
