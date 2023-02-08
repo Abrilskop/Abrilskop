@@ -1,7 +1,4 @@
 # <p align="center"> ☁️ Hi There, I'm Abrilskop ☁️ </p>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/116703319/216876328-d8a2481f-362b-4b56-a942-3c83d1b4d6e1.gif" align="right" width="310" height="200">
-</p>
 
 <h4 align="center"><samp> I'm currently the last year student at SENATI and second year student at UAC - Universidad Andina del Cusco.
 <br>My major is Software Engineering and System Engineering.
@@ -14,6 +11,10 @@
 <a href= "https://dev.to/abrilskop" target="_blank"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
 <a href= "#"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "#"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/116703319/216876328-d8a2481f-362b-4b56-a942-3c83d1b4d6e1.gif" width="320" height="250">
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack:
