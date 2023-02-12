@@ -45,10 +45,10 @@
 # <p align="center"> 📊 GitHub Stats: </p>
 ![](https://github-readme-stats.vercel.app/api?username=abrilskop&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=abrilskop&theme=chartreuse-dark&hide_border=false)<br/> 
 
-### <p align="center"> ✍️ Random Dev Quote </p>
+### <p align="center"> ✍ Random Dev Quote </p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### <p align="center"> 😂 Random Dev Meme </p>
+### <p align="center">  Random Dev Meme </p>
 <p align="center">
     <img src="assets/img/AI.jpeg" width="512px"/>
 </p>
