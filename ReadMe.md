@@ -10,6 +10,7 @@
 <p align="center">
     <a target="_blank" rel="nofollow" href= "https://dev.to/abrilskop"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
     <a href= "https://twitter.com/ia_uber"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+    <a href="https://www.linkedin.com/in/abril-skop-90ba6b1a3" target="_blank" rel="nofollow"><img src="https://img.icons8.com/ios-filled/32/000000/linkedin.png" alt="LinkedIn"/></a>
     <!--<a href= "algun dia :v con fe"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a> -->
 </p>
 
