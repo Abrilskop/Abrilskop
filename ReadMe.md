@@ -1,6 +1,6 @@
 # <p align="center"><samp> ☁️ Hi There, I'm Abrilskop ☁️ </samp></p>
 
-<h4 align="center"><samp> I'm currently the last year student at SENATI and seventh year student at UAC - Universidad Andina del Cusco.
+<h4 align="center"><samp> I am a graduate of SENATI and seventh year student at UAC - Universidad Andina del Cusco.
 <br>My major is Software Engineering and System Engineering.
 <br>I'm living now in Cusco, Perú.
 <br>I'm interested in coding, researching, drawing and new technologies.
